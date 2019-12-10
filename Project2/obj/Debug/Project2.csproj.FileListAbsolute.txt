@@ -1,0 +1,36 @@
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\manrapk\Desktop\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.pdb
+F:\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.exe.config
+F:\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.exe
+F:\03 Advanced Programming\Week 15\Project2\Project2\bin\Debug\Project2.pdb
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.Form1.resources
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.exe
+F:\03 Advanced Programming\Week 15\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\bin\Debug\Project2.exe.config
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\bin\Debug\Project2.exe
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\bin\Debug\Project2.pdb
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.exe
+C:\Users\manrapk\Desktop\c_proj\Project2.bak\Project2\obj\Debug\Project2.pdb
+\\Mac\Home\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+\\Mac\Home\Desktop\Project2\Project2\bin\Debug\Project2.exe
+\\Mac\Home\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.Form1.resources
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.exe
+\\Mac\Home\Desktop\Project2\Project2\obj\Debug\Project2.pdb
